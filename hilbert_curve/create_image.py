@@ -15,7 +15,7 @@ def fade(fr, to, d, n):
     )
 
 if __name__ == "__main__":
-    n = 16
+    n = 512
 
     h = HilbertCurve(n)
 
